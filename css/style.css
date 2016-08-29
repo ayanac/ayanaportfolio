@@ -127,7 +127,7 @@ p::before {
   background-color: rgba(255, 255, 255, 0.7);
   display:block;
   height: 100spx;
-  padding-left: 50%;
+  padding-left: 40%;
   width:100%;
  }
 
@@ -391,6 +391,9 @@ background-image:url(../images/principles.jpeg);
     padding: 30px;
     padding-top:45px;
     width:100%;
+  }
+  .logocontainer{
+    padding-left: 46%;
   }
   .mainblog{
     background-color: rgba(255, 167, 153, 0.7);
